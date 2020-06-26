@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+.container-fluid-2, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100% !important;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bg-primary {
+    background-color: #5e72e4 !important;
+}
+
+.bg-gradient-danger {
+    background: linear-gradient(269.12deg, #DB5D79 0.41%, #E2645A 99.41%) !important;
+    mix-blend-mode: normal;  
+}
+
+.btn-lejour-verde{
+/* Verde-Água - 2 */
+background-color: #68BFB7 !important;
+/* Sombras/Botões/Hover/Verde */
+color: #FFFFFF;
+mix-blend-mode: normal;
+box-shadow: 0px 3px 12px #86D0CB;
+border-radius: 29px;
+width: 219px;
+height: 45px;
+margin-bottom: 20px;
+text-align: center;
+}
+
+.btn-lejour-verde:hover{
+background-color: #86D0CB;
+mix-blend-mode: normal;
+/* Sombras/Botões/Hover/Verde */
+box-shadow: 0px 18px 31px rgba(134, 208, 203, 0.38), 0px 4px 12px rgba(134, 208, 203, 0.05);
+border-radius: 29px;
+}
+
+body {
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 156%;
+    color: #333333;
+    background-color: #FFFFFF !important;
+}
+
+.sidebar-nav li.sidebar-nav-item a {
+    display: block;
+    text-decoration: none;
+    color: #333333 !important;
+    padding: 15px;
+}
+
+.sidebar-nav li.sidebar-nav-item a:hover {
+    background: #E2645A;
+}
+
+.btn-lejour-out{
+margin-top: 20px;
+width: 219px;
+height: 45px;
+text-transform: uppercase;
+color: #68BFB7 !important;
+/* Verde-Água - 2 */
+border: 1px solid #68BFB7;
+box-sizing: border-box;
+border-radius: 48px;
+}
+
+.nav-pills > li {
+    text-align: center;
+    width: 80px;  
+    margin-right: 20px;   
+    /* Verde-Água - 2 */   
+}
+.nav-pills > li > a{
+    text-align: center;
+    width: 90px;
+    color: #68BFB7 !important;
+    border: 1px solid #68BFB7;
+    box-sizing: border-box;
+    border-radius: 29px;
+    padding: 10px;
+    
+}
+
+.nav-pills > li > a:active{
+    text-align: center;
+    width: 80px;
+    color: #FFFFFF !important;
+    background-color: #68BFB7;
+    
+}
