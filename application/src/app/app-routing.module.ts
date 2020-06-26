@@ -5,6 +5,7 @@ import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { CasamentoComponent } from './pages/casamento/casamento.component';
 import { CerimoniaComponent } from './pages/cerimonia/cerimonia.component';
 import { ProclamasComponent } from './pages/proclamas/proclamas.component';
+import { DiarioOficialComponent } from './pages/diario-oficial/diario-oficial.component';
 
 const routes: Routes = [{
   path: '',
@@ -16,6 +17,7 @@ const routes: Routes = [{
 { path: 'casamento', component: CasamentoComponent },
 { path: 'cerimonia', component: CerimoniaComponent },
 { path: 'proclamas', component: ProclamasComponent },
+{ path: 'diario-oficial', component: DiarioOficialComponent },
 ];
 
 @NgModule({
