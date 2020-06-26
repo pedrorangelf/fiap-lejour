@@ -1,0 +1,152 @@
+<nav class="navbar navbar-vertical navbar-expand-md navbar-light bg-white sidebar-wrapper" id="sidenav-main">
+  <div class="container-fluid">
+    <!-- Toggler -->
+    <!-- Brand -->
+    <!-- User -->
+    <!-- Collapse -->
+    <div class="collapse navbar-collapse" id="sidenav-collapse-main">
+      <!-- Collapse header -->
+      <div class="navbar-collapse-header d-md-none">
+        <div class="row">
+          <div class="col-6 collapse-brand">
+            <a routerLinkActive="active" [routerLink]="['/dashboard']">
+              <img src="./assets/img/brand/blue.png">
+            </a>
+          </div>
+          <div class="col-6 collapse-close">
+            <button type="button" class="navbar-toggler" (click)="isCollapsed=!isCollapsed">
+              <span></span>
+              <span></span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <!-- Navigation -->
+      <ul class="sidebar-nav">
+        <li class="sidebar-brand">
+          <a class="js-scroll-trigger" href="javascript:void(0)">Start Bootstrap</a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="javascript:void(0)">Home</a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="#services">Services</a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="#portfolio">Portfolio</a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="#contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="main-content">
+  <div class="header bg-gradient-danger pb-8 pt-5 pt-md-8">
+    <div class="container-fluid-2">
+      <div class="header-body">
+        <!-- Card stats -->
+        <div class="row">
+          <div class="col-xl-3 col-lg-6">
+            <div class="card card-stats mb-4 mb-xl-0">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col">
+                    <h5 class="card-title text-uppercase text-muted mb-0">Pagamento efetuado!</h5>
+                    <span class="h2 font-weight-bold mb-0">R$ 97,00</span>
+                  </div>
+                  <div class="col-auto">
+                    <div class="icon icon-shape bg-success text-white rounded-circle shadow">
+                      <i class="fas fa-check"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-6">
+            <div class="card card-stats mb-4 mb-xl-0">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col">
+                    <h5 class="card-title text-uppercase text-muted mb-0">Testemunhas confirmadas!</h5>
+                    <span class="h2 font-weight-bold mb-0">José e Joana</span>
+                  </div>
+                  <div class="col-auto">
+                    <div class="icon icon-shape bg-success text-white rounded-circle shadow">
+                      <i class="fas fa-check"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-6">
+            <div class="card card-stats mb-4 mb-xl-0">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col">
+                    <h5 class="card-title text-uppercase text-muted mb-0">Cerimônia</h5>
+                    <span class="h2 font-weight-bold mb-0">Foi lindo!</span>
+                  </div>
+                  <div class="col-auto">
+                    <div class="icon icon-shape bg-success text-white rounded-circle shadow">
+                      <i class="fa fa-archway"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-6">
+            <div class="card card-stats mb-4 mb-xl-0">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col">
+                    <h5 class="card-title text-uppercase text-muted mb-0">Diário Oficial</h5>
+                    <span class="h2 font-weight-bold mb-0">Aguardando o cartório!</span>
+                  </div>
+                  <div class="col-auto">
+                    <div class="icon icon-shape bg-warning text-white rounded-circle shadow">
+                      <i class="fas fa-book"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid mt--7">
+    <div class="row">
+      <div class="col-xl-8 mb-5 mb-xl-0">
+        <div class="card shadow">
+          <div class="card-header border-0">
+            <div class="row align-items-center">
+              <div class="col">
+                <h3 class="mb-0">Foi tudo muito lindo!</h3>
+              </div>
+              <div class="col text-right">
+                <a class="btn btn-sm btn-success" [routerLink]="['/diario-oficial']">Diário Oficial</a>
+              </div>
+            </div>
+          </div>
+          <div class="table-responsive">
+            <!-- Projects table -->
+            <div class="container">
+              <h1>Diário Oficial</h1>
+              <p>Falta pouco para oficializar o casamento de vocês!<br>Estamos correndo as proclamas, mas em breve você poderá acessar sua certidão de casamento.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

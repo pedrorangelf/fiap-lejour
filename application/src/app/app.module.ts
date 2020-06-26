@@ -7,6 +7,7 @@ import { LoginComponent } from './pages/login/login.component';
 import { AppRoutingModule } from './app-routing.module';
 import { CasamentoComponent } from './pages/casamento/casamento.component';
 import { CerimoniaComponent } from './pages/cerimonia/cerimonia.component';
+import { ProclamasComponent } from './pages/proclamas/proclamas.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { CerimoniaComponent } from './pages/cerimonia/cerimonia.component';
     DashboardComponent,
     LoginComponent,
     CasamentoComponent,
-    CerimoniaComponent
+    CerimoniaComponent,
+    ProclamasComponent
   ],
   imports: [
     BrowserModule,
