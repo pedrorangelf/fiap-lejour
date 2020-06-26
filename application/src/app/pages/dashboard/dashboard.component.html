@@ -9,7 +9,7 @@
       <div class="navbar-collapse-header d-md-none">
         <div class="row">
           <div class="col-6 collapse-brand">
-            <a routerLinkActive="active" [routerLink]="['/dashboard']">
+            <a routerLinkActive="active" [routerLink]="['/home']">
               <img src="./assets/img/brand/blue.png">
             </a>
           </div>
@@ -24,23 +24,11 @@
       <!-- Navigation -->
       <ul class="sidebar-nav">
         <li class="sidebar-brand">
-          <a class="js-scroll-trigger" href="javascript:void(0)">Start Bootstrap</a>
+          <a class="js-scroll-trigger" href="/home">Mamba + Lejour</a>
         </li>
         <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="javascript:void(0)">Home</a>
-        </li>
-        <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#about">About</a>
-        </li>
-        <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#services">Services</a>
-        </li>
-        <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#portfolio">Portfolio</a>
-        </li>
-        <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#contact">Contact</a>
-        </li>
+          <a class="js-scroll-trigger" [routerLink]="['/home']">Home</a>
+        </li>       
       </ul>
     </div>
   </div>
@@ -58,19 +46,15 @@
               <div class="card-body">
                 <div class="row">
                   <div class="col">
-                    <h5 class="card-title text-uppercase text-muted mb-0">Traffic</h5>
-                    <span class="h2 font-weight-bold mb-0">350,897</span>
+                    <h2 class="card-title text-uppercase text-muted mb-0">ESTILO</h2>
+                    <h6 class="h2 font-weight-bold mb-0">Clássico, na cidade</h6>
                   </div>
                   <div class="col-auto">
-                    <div class="icon icon-shape bg-danger text-white rounded-circle shadow">
-                      <i class="fas fa-chart-bar"></i>
+                    <div class="icon icon-shape text-lejour shadow">
+                        <i class="fas fa-city"></i>
                     </div>
                   </div>
-                </div>
-                <p class="mt-3 mb-0 text-muted text-sm">
-                  <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> 3.48%</span>
-                  <span class="text-nowrap">Since last month</span>
-                </p>
+                </div>               
               </div>
             </div>
           </div>
@@ -79,19 +63,15 @@
               <div class="card-body">
                 <div class="row">
                   <div class="col">
-                    <h5 class="card-title text-uppercase text-muted mb-0">New users</h5>
-                    <span class="h2 font-weight-bold mb-0">2,356</span>
+                    <h2 class="card-title text-uppercase text-muted mb-0">CONVIDADOS</h2>
+                    <h6 class="h2 font-weight-bold mb-0">80</h6>
                   </div>
                   <div class="col-auto">
-                    <div class="icon icon-shape bg-warning text-white rounded-circle shadow">
-                      <i class="fas fa-chart-pie"></i>
+                    <div class="icon icon-shape text-lejour shadow">
+                        <i class="fas fa-user-friends"></i>
                     </div>
                   </div>
-                </div>
-                <p class="mt-3 mb-0 text-muted text-sm">
-                  <span class="text-danger mr-2"><i class="fas fa-arrow-down"></i> 3.48%</span>
-                  <span class="text-nowrap">Since last week</span>
-                </p>
+                </div>                
               </div>
             </div>
           </div>
@@ -100,19 +80,15 @@
               <div class="card-body">
                 <div class="row">
                   <div class="col">
-                    <h5 class="card-title text-uppercase text-muted mb-0">Sales</h5>
-                    <span class="h2 font-weight-bold mb-0">924</span>
+                    <h2 class="card-title text-uppercase text-muted mb-0">ORÇAMENTO</h2>
+                    <h6 class="h2 font-weight-bold mb-0">R$ 115.000,00</h6>
                   </div>
                   <div class="col-auto">
-                    <div class="icon icon-shape bg-yellow text-white rounded-circle shadow">
-                      <i class="fas fa-users"></i>
+                    <div class="icon icon-shape text-lejour shadow">
+                        <i class="fas fa-dollar-sign"></i>
                     </div>
                   </div>
-                </div>
-                <p class="mt-3 mb-0 text-muted text-sm">
-                  <span class="text-warning mr-2"><i class="fas fa-arrow-down"></i> 1.10%</span>
-                  <span class="text-nowrap">Since yesterday</span>
-                </p>
+                </div>                
               </div>
             </div>
           </div>
@@ -121,19 +97,15 @@
               <div class="card-body">
                 <div class="row">
                   <div class="col">
-                    <h5 class="card-title text-uppercase text-muted mb-0">Performance</h5>
-                    <span class="h2 font-weight-bold mb-0">49,65%</span>
+                    <h2 class="card-title text-uppercase text-muted mb-0">CERIMÔNIA</h2>
+                    <h6 class="h2 font-weight-bold mb-0">Não religiosa</h6>
                   </div>
                   <div class="col-auto">
-                    <div class="icon icon-shape bg-info text-white rounded-circle shadow">
-                      <i class="fas fa-percent"></i>
+                    <div class="icon icon-shape text-lejour shadow">
+                        <i class="fas fa-glass-cheers"></i>
                     </div>
                   </div>
-                </div>
-                <p class="mt-3 mb-0 text-muted text-sm">
-                  <span class="text-success mr-2"><i class="fas fa-arrow-up"></i> 12%</span>
-                  <span class="text-nowrap">Since last month</span>
-                </p>
+                </div>                
               </div>
             </div>
           </div>
@@ -195,13 +167,13 @@
                             <h3>Primeira Tetesmunha</h3>
                             <p>Lembra: a testemunha precisa estar no grande dia! </p>
                             <label>Nome</label>
-                            <input class="form-control input-lg">
+                            <input class="form-control input-lg" value="José">
                             <br>
                             <label>E-mail</label>
-                            <input class="form-control input-lg">
+                            <input class="form-control input-lg" value="jose@gmail.com">
                             <br>
                             <label>Telefone</label>
-                            <input class="form-control input-lg">
+                            <input class="form-control input-lg" value="(11) 98423-2340">
                           </div>
                           <a class="btn btn-lejour-out" href="#step2" data-toggle="tab" data-step="2">Prosseguir</a>
                         </div>
@@ -210,13 +182,13 @@
                               <h3>Segunda Tetesmunha</h3>
                               <p>Lembra: a testemunha precisa estar no grande dia! </p>
                               <label>Nome</label>
-                              <input class="form-control input-lg">
+                              <input class="form-control input-lg" value="Joana">
                               <br>
                               <label>E-mail</label>
-                              <input class="form-control input-lg">
+                              <input class="form-control input-lg" value="joana@gmail.com">
                               <br>
                               <label>Telefone</label>
-                              <input class="form-control input-lg" type="tel">
+                              <input class="form-control input-lg" type="tel" value="(11) 98423-2340">
                           </div>
                           <a class="btn btn-lejour-out" href="#step3" data-toggle="tab" data-step="3">Prosseguir</a>
                         </div>
@@ -241,13 +213,13 @@
                                 <label><b>TOTAL:</b> R$ 97</label>
                                 <br>
                                 <label>Cartão</label>
-                                <input class="form-control input-lg">                              
+                                <input class="form-control input-lg" value="1234 1234 2344 2345 2345">                              
                                 <label>Validade</label>
-                                <input class="form-control input-lg">                        
+                                <input class="form-control input-lg" value="02/28">                        
                                 <label>CVV</label>
-                                <input class="form-control input-lg">
+                                <input class="form-control input-lg" value="829">
                                 <label>Nome</label>
-                                <input class="form-control input-lg">
+                                <input class="form-control input-lg" value="LUCAS S B COSTA">
                             </div>
                             <a class="btn btn-lejour-out" href="#step5" data-toggle="tab" data-step="5">Prosseguir</a>
                           </div>
@@ -258,7 +230,7 @@
                               <label>Data</label>
                               <input class="form-control input-lg" type="datetime-local">
                           </div>
-                          <a class="btn btn-lejour-out" data-dismiss="modal" aria-hidden="true" [routerLink]="['/casamento']">Start over</a>
+                          <a class="btn btn-lejour-out" data-dismiss="modal" aria-hidden="true" [routerLink]="['/casamento']">Definir Data</a>
                         </div>
                       </div>
                     </div>                
