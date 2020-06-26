@@ -135,7 +135,7 @@
                 <h3 class="mb-0">Lucas & Maria, tudo certo! Agora vamos planejar o grande dia</h3>
               </div>
               <div class="col text-right">
-                <a href="#!" class="btn btn-sm btn-success">Ver página da Cerimônia</a>
+                <a class="btn btn-sm btn-success" [routerLink]="['/cerimonia']">Ver página da Cerimônia</a>
               </div>
             </div>
           </div>
@@ -167,105 +167,6 @@
               <div class="row">
                 <div class="col-3">
                   <a href="#myModal" role="button" class="btn btn-danger btn-block" data-toggle="modal">Fotógrafos</a>
-                </div>
-              </div>
-
-              <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
-                aria-hidden="true">
-                <div class="modal-dialog">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                    </div>
-                    <div class="modal-body" id="myWizard">
-
-                      <div class="navbar">
-                        <div class="navbar-inner">
-                          <ul class="nav nav-pills">
-                            <li class="active"><a href="#step1" data-toggle="tab" data-step="1">Passo 1</a></li>
-                            <li><a href="#step2" data-toggle="tab" data-step="2">Passo 2</a></li>
-                            <li><a href="#step3" data-toggle="tab" data-step="3">Passo 3</a></li>
-                            <li><a href="#step5" data-toggle="tab" data-step="5">Passo 4</a></li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="tab-content">
-                        <div class="tab-pane fade in active" id="step1">
-
-                          <div class="well">
-
-                            <h3>Primeira Tetesmunha</h3>
-                            <p>Lembra: a testemunha precisa estar no grande dia! </p>
-                            <label>Nome</label>
-                            <input class="form-control input-lg">
-                            <br>
-                            <label>E-mail</label>
-                            <input class="form-control input-lg">
-                            <br>
-                            <label>Telefone</label>
-                            <input class="form-control input-lg">
-                          </div>
-                          <a class="btn btn-lejour-out" href="#step2" data-toggle="tab" data-step="2">Prosseguir</a>
-                        </div>
-                        <div class="tab-pane fade" id="step2">
-                          <div class="well">
-                            <h3>Segunda Tetesmunha</h3>
-                            <p>Lembra: a testemunha precisa estar no grande dia! </p>
-                            <label>Nome</label>
-                            <input class="form-control input-lg">
-                            <br>
-                            <label>E-mail</label>
-                            <input class="form-control input-lg">
-                            <br>
-                            <label>Telefone</label>
-                            <input class="form-control input-lg" type="tel">
-                          </div>
-                          <a class="btn btn-lejour-out" href="#step3" data-toggle="tab" data-step="3">Prosseguir</a>
-                        </div>
-                        <div class="tab-pane fade" id="step3">
-                          <div class="well">
-                            <h3>Pagamento</h3>
-                            <p>Temos que coletar algumas taxas para realizar a cerimônia e garantir todos os aspectos
-                              legais. Abaixo, te mostramos de maneira detalhada os custos envolvidos.</p>
-                            <label>Honorários do Juiz e Escrevente R$ 27</label>
-                            <br>
-                            <label>Custos administrativos e judiciais R$ 50</label>
-                            <br>
-                            <label>Taxas da plataforma R$ 20</label>
-                            <br>
-                            <label><b>TOTAL:</b> R$ 97</label>
-                          </div>
-                          <a class="btn btn-lejour-out" href="#step4" data-toggle="tab" data-step="4">Prosseguir</a>
-                        </div>
-                        <div class="tab-pane fade" id="step4">
-                          <div class="well">
-                            <h3>Pagamento</h3>
-                            <p>Seus dados estão seguros com a gente.</p>
-                            <label><b>TOTAL:</b> R$ 97</label>
-                            <br>
-                            <label>Cartão</label>
-                            <input class="form-control input-lg">
-                            <label>Validade</label>
-                            <input class="form-control input-lg">
-                            <label>CVV</label>
-                            <input class="form-control input-lg">
-                            <label>Nome</label>
-                            <input class="form-control input-lg">
-                          </div>
-                          <a class="btn btn-lejour-out" href="#step5" data-toggle="tab" data-step="5">Prosseguir</a>
-                        </div>
-                        <div class="tab-pane fade" id="step5">
-                          <div class="well">
-                            <h3>Selecione uma data</h3>
-                            <p>Lembra: a testemunha precisa estar no grande dia! </p>
-                            <label>Data</label>
-                            <input class="form-control input-lg" type="datetime-local">
-                          </div>
-                          <a class="btn btn-lejour-out" data-dismiss="modal" aria-hidden="true">Start over</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
