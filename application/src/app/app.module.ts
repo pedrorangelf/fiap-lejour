@@ -8,6 +8,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { CasamentoComponent } from './pages/casamento/casamento.component';
 import { CerimoniaComponent } from './pages/cerimonia/cerimonia.component';
 import { ProclamasComponent } from './pages/proclamas/proclamas.component';
+import { DiarioOficialComponent } from './pages/diario-oficial/diario-oficial.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { ProclamasComponent } from './pages/proclamas/proclamas.component';
     LoginComponent,
     CasamentoComponent,
     CerimoniaComponent,
-    ProclamasComponent
+    ProclamasComponent,
+    DiarioOficialComponent
   ],
   imports: [
     BrowserModule,
