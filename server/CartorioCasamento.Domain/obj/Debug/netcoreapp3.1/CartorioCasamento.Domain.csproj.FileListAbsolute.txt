@@ -1,0 +1,16 @@
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.Domain\bin\Debug\netcoreapp3.1\CartorioCasamento.Domain.deps.json
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.Domain\bin\Debug\netcoreapp3.1\CartorioCasamento.Domain.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.Domain\bin\Debug\netcoreapp3.1\CartorioCasamento.Domain.pdb
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.Domain\obj\Debug\netcoreapp3.1\CartorioCasamento.Domain.AssemblyInfoInputs.cache
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.Domain\obj\Debug\netcoreapp3.1\CartorioCasamento.Domain.AssemblyInfo.cs
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.Domain\obj\Debug\netcoreapp3.1\CartorioCasamento.Domain.csproj.CoreCompileInputs.cache
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.Domain\obj\Debug\netcoreapp3.1\CartorioCasamento.Domain.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.Domain\obj\Debug\netcoreapp3.1\CartorioCasamento.Domain.pdb
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.Domain\obj\Debug\netcoreapp3.1\CartorioCasamento.Domain.csprojAssemblyReference.cache
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.Domain\obj\Debug\netcoreapp3.1\CartorioCasamento.Domain.AssemblyInfoInputs.cache
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.Domain\obj\Debug\netcoreapp3.1\CartorioCasamento.Domain.AssemblyInfo.cs
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.Domain\obj\Debug\netcoreapp3.1\CartorioCasamento.Domain.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.Domain\obj\Debug\netcoreapp3.1\CartorioCasamento.Domain.pdb
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.Domain\bin\Debug\netcoreapp3.1\CartorioCasamento.Domain.deps.json
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.Domain\bin\Debug\netcoreapp3.1\CartorioCasamento.Domain.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.Domain\bin\Debug\netcoreapp3.1\CartorioCasamento.Domain.pdb

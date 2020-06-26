@@ -1,0 +1,137 @@
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.exe
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.deps.json
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.runtimeconfig.json
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.runtimeconfig.dev.json
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.pdb
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.Domain.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.Infra.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.Infra.pdb
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.Domain.pdb
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.csprojAssemblyReference.cache
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.AssemblyInfoInputs.cache
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.AssemblyInfo.cs
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.RazorTargetAssemblyInfo.cache
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.csproj.CopyComplete
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\staticwebassets\CartorioCasamento.API.StaticWebAssets.Manifest.cache
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\staticwebassets\CartorioCasamento.API.StaticWebAssets.xml
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.pdb
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.genruntimeconfig.cache
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.csproj.CoreCompileInputs.cache
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.MvcApplicationPartsAssemblyInfo.cs
+D:\FIAP\1ª Encontro Presencial - 2020\Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.Domain.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.Infra.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.Infra.pdb
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.Domain.pdb
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.csprojAssemblyReference.cache
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.AssemblyInfoInputs.cache
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.AssemblyInfo.cs
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.RazorTargetAssemblyInfo.cache
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.csproj.CopyComplete
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.pdb
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.exe
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.deps.json
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.runtimeconfig.json
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.runtimeconfig.dev.json
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.dll
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\bin\Debug\netcoreapp3.1\CartorioCasamento.API.pdb
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\staticwebassets\CartorioCasamento.API.StaticWebAssets.Manifest.cache
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\staticwebassets\CartorioCasamento.API.StaticWebAssets.xml
+C:\Source\1Encontro_Desafio\server\CartorioCasamento.API\obj\Debug\netcoreapp3.1\CartorioCasamento.API.genruntimeconfig.cache
