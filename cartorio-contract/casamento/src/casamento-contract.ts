@@ -132,7 +132,7 @@ export class CasamentoContract extends Contract {
         if (!exists) {
             throw new Error(`O casamento ${casamentoId} não foi registrado.`);
         }
-        
+
         await ctx.stub.deleteState(casamentoId);
     }
 

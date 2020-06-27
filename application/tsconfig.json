@@ -1,6 +1,16 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "allowJs": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
@@ -17,5 +27,11 @@
       "es2018",
       "dom"
     ]
-  }
+  },
+  "include": [
+  "./src/**/*"
+  ],
+  "exclude": [
+  "node_modules"
+  ]
 }

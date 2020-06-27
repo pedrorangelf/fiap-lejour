@@ -12,7 +12,7 @@ async function main() {
         // Create a new gateway for connecting to our peer node.
         const gateway = new Gateway();
         const connectionProfile = path.resolve(__dirname, '..', 'connection.json');
-        const connectionOptions = { wallet, identity: 'org1Admin', discovery: { enabled: true, asLocalhost: true } };
+        let connectionOptions = { wallet, identity: 'org1Admin', discovery: { enabled: true, asLocalhost: true } };
         await gateway.connect(connectionProfile, connectionOptions);
 
         // Get the network (channel) our contract is deployed to.
@@ -23,14 +23,10 @@ async function main() {
 
         // Submit the specified transaction.
         await contract.submitTransaction('solicitarEntradaCasamento', '002',
-            // tslint:disable-next-line:max-line-length
-            '{"nome":"victor","sobrenome":"victor","dataNascimento":"2020-06-24T15:30:15.130Z","cpf":"victor","rg":"victor","arquivoCertidaoNascimento":"victor","arquivoRg":"victor","arquivoCpf":"victor","arquivoCertidaoDivorcio":"victor","arquivoSentencaDivorcio":"victor"}',
-            // tslint:disable-next-line:max-line-length
-            '{"nome":"victor","sobrenome":"victor","dataNascimento":"2020-06-24T15:30:15.130Z","cpf":"victor","rg":"victor","arquivoCertidaoNascimento":"victor","arquivoRg":"victor","arquivoCpf":"victor","arquivoCertidaoDivorcio":"victor","arquivoSentencaDivorcio":"victor"}',
-            // tslint:disable-next-line:max-line-length
-            '{"nome":"victor","sobrenome":"victor","dataNascimento":"2020-06-24T15:30:15.130Z","cpf":"victor","rg":"victor","arquivoCertidaoNascimento":"victor","arquivoRg":"victor","arquivoCpf":"victor","arquivoCertidaoDivorcio":"victor","arquivoSentencaDivorcio":"victor"}',
-            // tslint:disable-next-line:max-line-length
-            '{"nome":"victor","sobrenome":"victor","dataNascimento":"2020-06-24T15:30:15.130Z","cpf":"victor","rg":"victor","arquivoCertidaoNascimento":"victor","arquivoRg":"victor","arquivoCpf":"victor","arquivoCertidaoDivorcio":"victor","arquivoSentencaDivorcio":"victor"}');
+            "{\"nome\":\"victor\",\"sobrenome\":\"victor\",\"dataNascimento\":\"2020-06-24T15:30:15.130Z\",\"cpf\":\"victor\",\"rg\":\"victor\",\"arquivoCertidaoNascimento\":\"victor\",\"arquivoRg\":\"victor\",\"arquivoCpf\":\"victor\",\"arquivoCertidaoDivorcio\":\"victor\",\"arquivoSentencaDivorcio\":\"victor\"}",
+            "{\"nome\":\"victor\",\"sobrenome\":\"victor\",\"dataNascimento\":\"2020-06-24T15:30:15.130Z\",\"cpf\":\"victor\",\"rg\":\"victor\",\"arquivoCertidaoNascimento\":\"victor\",\"arquivoRg\":\"victor\",\"arquivoCpf\":\"victor\",\"arquivoCertidaoDivorcio\":\"victor\",\"arquivoSentencaDivorcio\":\"victor\"}",
+            "{\"nome\":\"victor\",\"sobrenome\":\"victor\",\"dataNascimento\":\"2020-06-24T15:30:15.130Z\",\"cpf\":\"victor\",\"rg\":\"victor\",\"arquivoCertidaoNascimento\":\"victor\",\"arquivoRg\":\"victor\",\"arquivoCpf\":\"victor\",\"arquivoCertidaoDivorcio\":\"victor\",\"arquivoSentencaDivorcio\":\"victor\"}",
+            "{\"nome\":\"victor\",\"sobrenome\":\"victor\",\"dataNascimento\":\"2020-06-24T15:30:15.130Z\",\"cpf\":\"victor\",\"rg\":\"victor\",\"arquivoCertidaoNascimento\":\"victor\",\"arquivoRg\":\"victor\",\"arquivoCpf\":\"victor\",\"arquivoCertidaoDivorcio\":\"victor\",\"arquivoSentencaDivorcio\":\"victor\"}");
         console.log(`Transaction has been submitted`);
 
         // Disconnect from the gateway.
