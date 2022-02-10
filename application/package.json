@@ -45,7 +45,7 @@
         "fabric-shim": "^2.0.0-snapshot.124",
         "jquery": "^3.5.1",
         "jquery.easing": "^1.4.1",
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.0",
         "popper.js": "^1.14.7",
         "rxjs": "~6.3.3",
         "simple-line-icons": "^2.4.1",
